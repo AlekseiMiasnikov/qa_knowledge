@@ -1,6 +1,6 @@
 # Теория тестирования
 
-1. [Краткая печатная теория для подготовка к собеседованию](docs/1.md)
+1. [Краткая печатная теория для подготовки к собеседованию](docs/1.md)
 2. [Курс тестирования и что нужно знать тестировщику](https://www.youtube.com/watch?v=Xx1lRYj_NsY&list=PLRs8EELOYKc7DYIQixlV1s4EH5SR3TdNB)
 3. [Что должен знать хороший тестировщик](https://www.youtube.com/watch?v=DUC5C52-L98)
 4. [Что должен знать Junior тестировщик](https://www.youtube.com/watch?v=l9ezImoh5ac)
